@@ -13,10 +13,23 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" exact element={<Home />}></Route>
-          <Route path="/services" element={<Sercives />}></Route>
-          <Route path="/products" element={<Products />}></Route>
-          <Route path="/sign-up" element={<SignUp />}></Route>
+          <Route
+            path="/personal-website-react"
+            exact
+            element={<Home />}
+          ></Route>
+          <Route
+            path="/personal-website-react/services"
+            element={<Sercives />}
+          ></Route>
+          <Route
+            path="/personal-website-react/products"
+            element={<Products />}
+          ></Route>
+          <Route
+            path="/personal-website-react/sign-up"
+            element={<SignUp />}
+          ></Route>
         </Routes>
         <Footer />
       </Router>
