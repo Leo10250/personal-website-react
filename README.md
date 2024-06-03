@@ -1,6 +1,6 @@
 # Welcome
 
-[Visit the Website!]([https://github.com/facebook/create-react-app](https://leo10250.github.io/personal-website-react/)).
+[Visit the Website!](https://leo10250.github.io/personal-website-react/)
 
 ## Available Scripts
 
